@@ -1,2 +1,2 @@
 # Instagram-Product-analysis.
-This project entails the analysis of instaram product and  how would you measure the success of the Instagram TV product
+This project entails the analysis of Instagram product and  how would you measure the success of the Instagram TV product
